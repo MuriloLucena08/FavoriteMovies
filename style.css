@@ -7,6 +7,12 @@
 
 }
 
+@media (max-width:600px) {
+    :root {
+        font-size: 10px;
+    }
+}
+
 * {
     box-sizing: border-box;
     margin: 0;
